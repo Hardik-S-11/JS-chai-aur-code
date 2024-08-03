@@ -18,3 +18,5 @@ let isMale = true
 console.log(typeof null);
 console.log(typeof undefined);
 
+console.log("Hello")
+
